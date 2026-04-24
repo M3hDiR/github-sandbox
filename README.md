@@ -101,6 +101,8 @@ After committing, you can monitor the workflow:
 
 ## ⚠️ Notes
 
+new
+
 - URLs must be publicly accessible (no login required)
 - Separate multiple URLs with spaces
 - The workflow skips itself using `[skip ci]` in its own commit message to avoid infinite loops
