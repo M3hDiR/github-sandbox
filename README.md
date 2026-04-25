@@ -98,7 +98,7 @@ After committing, you can monitor the workflow:
 3. Once it completes, go back to the **Code** tab and open the `downloads/` folder to find your files
 
 ---
-New--40th
+New--dot net 6
 ## ⚠️ Notes
 
 
